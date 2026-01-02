@@ -48,6 +48,7 @@
 | [0141-linked-list-cycle](https://github.com/rkpishere/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rkpishere/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rkpishere/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/rkpishere/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Design
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/rkpishere/Leetcode/tree/master/0622-design-circular-queue) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/rkpishere/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Breadth-First Search
 |  |
 | ------- |
