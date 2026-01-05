@@ -17,6 +17,7 @@
 | [0622-design-circular-queue](https://github.com/rkpishere/Leetcode/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/rkpishere/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/rkpishere/Leetcode/tree/master/1669-merge-in-between-linked-lists) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rkpishere/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/rkpishere/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/rkpishere/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rkpishere/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rkpishere/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
