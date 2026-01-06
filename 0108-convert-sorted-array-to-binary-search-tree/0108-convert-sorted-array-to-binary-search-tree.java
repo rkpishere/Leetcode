@@ -26,10 +26,7 @@ root.right=buildTree(nums,mid+1,high);
 return root;
     }
     public TreeNode sortedArrayToBST(int[] nums) {
-       
-        // for(int i=0;i<nums.length;i++){
-        //     root=buildTree(root,nums[i]);
-        // }
+      
     return  buildTree(nums,0,nums.length-1);
        
     }
