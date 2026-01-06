@@ -74,6 +74,7 @@
 | [0100-same-tree](https://github.com/rkpishere/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rkpishere/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rkpishere/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rkpishere/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/rkpishere/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rkpishere/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rkpishere/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -102,6 +103,7 @@
 | [0100-same-tree](https://github.com/rkpishere/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rkpishere/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rkpishere/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rkpishere/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/rkpishere/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rkpishere/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rkpishere/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -113,6 +115,7 @@
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rkpishere/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/rkpishere/Leetcode/tree/master/0169-majority-element) |
 | [0622-design-circular-queue](https://github.com/rkpishere/Leetcode/tree/master/0622-design-circular-queue) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rkpishere/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -144,6 +147,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rkpishere/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/rkpishere/Leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -153,4 +157,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rkpishere/Leetcode/tree/master/0169-majority-element) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rkpishere/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
