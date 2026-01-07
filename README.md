@@ -10,6 +10,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/rkpishere/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/rkpishere/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rkpishere/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/rkpishere/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rkpishere/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/rkpishere/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rkpishere/Leetcode/tree/master/0206-reverse-linked-list) |
@@ -33,6 +34,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rkpishere/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/rkpishere/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rkpishere/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/rkpishere/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rkpishere/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/rkpishere/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rkpishere/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -156,10 +158,12 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rkpishere/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rkpishere/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/rkpishere/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rkpishere/Leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/rkpishere/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rkpishere/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -178,4 +182,5 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rkpishere/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/rkpishere/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
