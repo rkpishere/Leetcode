@@ -125,6 +125,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rkpishere/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/rkpishere/Leetcode/tree/master/0169-majority-element) |
+| [0414-third-maximum-number](https://github.com/rkpishere/Leetcode/tree/master/0414-third-maximum-number) |
 | [0622-design-circular-queue](https://github.com/rkpishere/Leetcode/tree/master/0622-design-circular-queue) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rkpishere/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Breadth-First Search
@@ -165,6 +166,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/rkpishere/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rkpishere/Leetcode/tree/master/0169-majority-element) |
+| [0414-third-maximum-number](https://github.com/rkpishere/Leetcode/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
 | ------- |
