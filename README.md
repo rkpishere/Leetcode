@@ -131,6 +131,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/rkpishere/Leetcode/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rkpishere/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/rkpishere/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rkpishere/Leetcode/tree/master/0189-rotate-array) |
@@ -206,5 +207,6 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/rkpishere/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/rkpishere/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
