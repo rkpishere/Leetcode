@@ -94,6 +94,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/rkpishere/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rkpishere/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rkpishere/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/rkpishere/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rkpishere/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -127,6 +128,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/rkpishere/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rkpishere/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rkpishere/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/rkpishere/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rkpishere/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Array
 |  |
@@ -193,6 +195,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rkpishere/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/rkpishere/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rkpishere/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/rkpishere/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
