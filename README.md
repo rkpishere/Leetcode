@@ -141,6 +141,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rkpishere/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/rkpishere/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rkpishere/Leetcode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/rkpishere/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/rkpishere/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/rkpishere/Leetcode/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/rkpishere/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -212,6 +213,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/rkpishere/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/rkpishere/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
