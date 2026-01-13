@@ -64,6 +64,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/rkpishere/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/rkpishere/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rkpishere/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/rkpishere/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Design
 |  |
 | ------- |
@@ -149,6 +150,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/rkpishere/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/rkpishere/Leetcode/tree/master/0622-design-circular-queue) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rkpishere/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/rkpishere/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -222,6 +224,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/rkpishere/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/rkpishere/Leetcode/tree/master/0189-rotate-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/rkpishere/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -230,4 +233,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rkpishere/Leetcode/tree/master/0011-container-with-most-water) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/rkpishere/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
