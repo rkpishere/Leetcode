@@ -142,6 +142,7 @@
 | [0075-sort-colors](https://github.com/rkpishere/Leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rkpishere/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rkpishere/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/rkpishere/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rkpishere/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rkpishere/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/rkpishere/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -178,6 +179,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/rkpishere/Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/rkpishere/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Divide and Conquer
 |  |
