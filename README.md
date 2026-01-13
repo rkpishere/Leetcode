@@ -32,6 +32,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rkpishere/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rkpishere/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/rkpishere/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/rkpishere/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -134,6 +135,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rkpishere/Leetcode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rkpishere/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/rkpishere/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/rkpishere/Leetcode/tree/master/0075-sort-colors) |
@@ -224,4 +226,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rkpishere/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rkpishere/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
