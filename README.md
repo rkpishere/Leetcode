@@ -64,6 +64,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/rkpishere/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/rkpishere/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/rkpishere/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/rkpishere/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/rkpishere/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/rkpishere/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rkpishere/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -81,6 +82,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/rkpishere/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rkpishere/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/rkpishere/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/rkpishere/Leetcode/tree/master/0622-design-circular-queue) |
 ## Tree
 |  |
@@ -172,6 +174,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rkpishere/Leetcode/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/rkpishere/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/rkpishere/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -210,6 +213,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rkpishere/Leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/rkpishere/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search Tree
 |  |
 | ------- |
