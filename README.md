@@ -158,6 +158,7 @@
 | [0496-next-greater-element-i](https://github.com/rkpishere/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/rkpishere/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/rkpishere/Leetcode/tree/master/0622-design-circular-queue) |
+| [0912-sort-an-array](https://github.com/rkpishere/Leetcode/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rkpishere/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/rkpishere/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Breadth-First Search
@@ -201,6 +202,7 @@
 | [0148-sort-list](https://github.com/rkpishere/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rkpishere/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rkpishere/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/rkpishere/Leetcode/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -209,6 +211,7 @@
 | [0169-majority-element](https://github.com/rkpishere/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/rkpishere/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/rkpishere/Leetcode/tree/master/0414-third-maximum-number) |
+| [0912-sort-an-array](https://github.com/rkpishere/Leetcode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -225,11 +228,13 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rkpishere/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/rkpishere/Leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rkpishere/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/rkpishere/Leetcode/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/rkpishere/Leetcode/tree/master/0912-sort-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -259,4 +264,16 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rkpishere/Leetcode/tree/master/0496-next-greater-element-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rkpishere/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rkpishere/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rkpishere/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
