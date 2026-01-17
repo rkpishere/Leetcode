@@ -245,6 +245,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/rkpishere/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/rkpishere/Leetcode/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/rkpishere/Leetcode/tree/master/0263-ugly-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/rkpishere/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
